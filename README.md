@@ -1,7 +1,7 @@
 ## Olá, me chamo Arthur e é um prazer ter você por aqui!!
 
 - 🔭 Trabalhando atualmente com suporte e implantaçao de sistemas ERP
-- 🌱 Estudando principalmente Python e Machine Learning
+- 🌱 Estudando Python, Machine Learning, Data Engeneering e Data Analysis
 - ⚡ Apaixonado por motos, tecnologia e games!
 - 📫 Contate-me no email: arthurrossi15@gmail.com
 
