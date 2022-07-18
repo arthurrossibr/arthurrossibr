@@ -1,14 +1,10 @@
 ## Olá, me chamo Arthur e é um prazer ter você por aqui!!
 
-- Sou Bacharel em Ciência da Computação pela UNIP com Láurea Acadêmica tendo como foco de trabalho de conclusão a aplicação de aprendizado de máquina na segurança da informação.
-
-- Tenho conhecimentos principalmente em desenvolvimento backend com C#, desenvolvimento em Python com Aprendizado de Máquina com Keras e web com Django, e desenvolvimento mobile Android e iOS com Flutter.
-
-- Busco estar sempre em constante aprendizado.
-
-- Atualmente frequento disciplinas de mestrado como aluno especial na UNESP, enquanto produzo meu projeto de pesquisa.
-
-- Trabalho atualmente com treinamento, suporte e implantação de sistemas de gestão ERP de comércios, industrias, restaurantes e pequenas empresas pessoais (MEI), ajudando os mesmos a gerir os cadastros de entidades, vendas, financeiro, fiscal e outras atividades do dia a dia.
+- 👨🏻‍💻 Bacharel em Ciência da Computação e aluno especia de mestrado na UNESP.
+- 💻 Principais conhecimentos: Backend com C#, Python com ML Keras e Web com Django, e mobile Android e iOS com Flutter.
+- 🔭 Procurando uma oportunidade em desenvolvimento ou em análise de dados.
+- 📚 Estudando Data Sciense, Mobile Apps, e Backend Development.
+- 🏢 Trabalhando com treinamento, suporte e implantação de ERPs.
 
 <br>
 <div align="center">
