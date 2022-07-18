@@ -4,7 +4,7 @@
 
 - Tenho conhecimentos principalmente em desenvolvimento backend com C#, desenvolvimento em Python com Aprendizado de Máquina com Keras e web com Django, e desenvolvimento mobile Android e iOS com Flutter.
 
-- Busco estar sempre em constante aprendizado, sempre aprendendo algo novo.
+- Busco estar sempre em constante aprendizado.
 
 - Atualmente frequento disciplinas de mestrado como aluno especial na UNESP, enquanto produzo meu projeto de pesquisa.
 
