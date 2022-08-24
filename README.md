@@ -6,8 +6,6 @@
 - 📚 Estudando Data Sciense, Mobile Apps, e Backend Development.
 - 🏢 Trabalhando com treinamento, suporte e implantação de ERPs.
 
-<img src="https://img.shields.io/github/followers/arthurrossibr?label=Seguidores&style=social">
-
 <br>
 <div align="center">
   <h2> Estatísticas </h2>
