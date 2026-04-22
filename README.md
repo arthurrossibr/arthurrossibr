@@ -2,7 +2,7 @@
 
 **Data Scientist & AI Specialist** — I build systems that turn data into real business results, end-to-end: from pipelines and warehouses to ML models, AI agents and decision dashboards.
 
-Currently a **Data Scientist at [Predictus](https://predictus.com.br)** and **founder of [ARC Intelligence](https://beacons.ai/arthurrossibr)**, a consultancy focused on applied AI, intelligent automation and data engineering.  
+Currently a **Data Scientist at [Predictus](https://predictus.com.br)** and **founder of [ARC Intelligence](https://www.arcintelligence.com.br)**, a consultancy focused on applied AI, intelligent automation and data engineering.  
 Also a **MSc researcher at UNESP** — studying federated learning and bio-inspired metaheuristics applied to multiple sequence alignment.
 
 ---
